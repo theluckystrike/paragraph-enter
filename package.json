@@ -1,5 +1,6 @@
 {
 	"name": "paragraph-enter",
+	"repository": {"type": "git", "url": "theluckystrike/paragraph-enter.git"},
 	"version": "1.0.0",
 	"private": true,
 	"description": "Press Enter once to start a new paragraph, and use Shift-Enter for a line break.",
